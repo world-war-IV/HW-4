@@ -1,0 +1,38 @@
+<div class="gallery">
+        <div class="row">
+            <div class="column">
+              <img src="jewel pics\1.jpg" class='pic1'>
+              <img src="jewel pics\2.jpg" class='pic2'>
+              <img src="jewel pics\3.Jpeg" class="pic3">
+              <img src="jewel pics\4.jpg" class='pic4'>
+              <img src="jewel pics\5.jpg" class='pic5'>
+              <img src="jewel pics\6.jpg" class='pic6'>
+              <img src="jewel pics\7.jpg" class='pic7'>
+            </div>
+            <div class="column">
+              <img src="jewel pics\8.jpg" class='pic8'>
+              <img src="jewel pics\9.jpg" class='pic9'>
+              <img src="jewel pics\10.jpg" class='pic10'>
+              <!-- <img src="jewel pics\1.jpg">
+              <img src="jewel pics\2.jpg">
+              <img src="jewel pics\3.Jpeg" class="pic3"> -->
+            </div>
+            <!-- <div class="column">
+                <img src="jewel pics\4.jpg">
+                <img src="jewel pics\5.jpg">
+                <img src="jewel pics\6.jpg">
+                <img src="jewel pics\7.jpg">
+                <img src="jewel pics\8.jpg">
+                <img src="jewel pics\9.jpg">
+                <img src="jewel pics\10.jpg">
+              </div>
+            <div class="column">
+                <img src="jewel pics\1.jpg">
+                <img src="jewel pics\2.jpg">
+                <img src="jewel pics\3.Jpeg" class="pic3">
+                <img src="jewel pics\4.jpg">
+                <img src="jewel pics\5.jpg">
+                <img src="jewel pics\6.jpg">
+            </div> -->
+          </div>
+    </div> 

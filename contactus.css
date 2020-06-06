@@ -1,0 +1,67 @@
+.contactusbg{
+    text-align: center;
+    padding-top: 100px;
+    
+    background-color: white;
+    margin: 100px 250px;    
+    border-radius: 100px;
+    padding: 100px 50px;
+}
+
+.contactus{
+    /* background-color: khaki; */
+    padding: 100px 50px;
+}
+
+
+    .contactus h1{
+        color: #360734;
+        font-size: 50px;
+    }
+
+    .contactus h3{
+        color: purple;
+
+    }
+
+    .contactus .gray-line-at-useful-links{
+        width: 100%;
+    }
+
+    #contactusintro{
+        padding-top: 10px
+    }
+
+    .contactus ul{
+        padding-top: 20px;
+        list-style-type: none;
+        /* color: #41173f; */
+        font-size: 20px;
+
+    }
+
+    .contactus i{
+        padding-right: 20px;
+        color: #41173f;
+
+    }
+
+    .contactus p{
+        /* font-size:25px; */
+        text-align: center;
+    }
+
+    .head12{
+        font-size:25px;
+
+    }
+
+    .head13{
+        font-weight: bold;
+        color: #41173f;
+    }
+
+    .head14{
+        color: black;
+        font-size: 18px;
+    }
